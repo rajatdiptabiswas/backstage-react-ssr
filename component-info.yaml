@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-react-ssr
+  description: React SSR template for Backstage
+  annotations:
+    github.com/project-slug: rajatdiptabiswas/backstage-react-ssr
+    backstage.io/techdocs-ref: github:https://github.com/rajatdiptabiswas/backstage-react-ssr
+spec:
+  type: website
+  lifecycle: experimental
+  owner: rajatdiptabiswas

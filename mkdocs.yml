@@ -1,0 +1,8 @@
+site_name: backstage-react-ssr
+site_description: React SSR template for Backstage
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
